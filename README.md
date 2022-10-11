@@ -1,4 +1,4 @@
 # React_random_user_App
 
 
-ferhat-resipe-app.netlify.app
+https://ferhat-resipe-app.netlify.app/
